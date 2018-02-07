@@ -2,12 +2,12 @@
 
 ## Initializer
 
-![alt text](https://github.com/lvntyldz/spring-boot-hw/images/initializer.png
+![alt text](https://raw.githubusercontent.com/lvntyldz/spring-boot-hw/master/images/initializer.png
 )
 
 ## Result
 
-![alt text](https://github.com/lvntyldz/spring-boot-hw/images/result.png
+![alt text](https://raw.githubusercontent.com/lvntyldz/spring-boot-hw/master/images/result.png
 )
 
 
